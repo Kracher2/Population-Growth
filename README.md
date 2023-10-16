@@ -1,4 +1,4 @@
-# CS50 Lab 1 Solution
+# CS50 Population Growth Solution
 
 This repository contains my solution to **Lab 1: Population Growth** from the **CS50** course. I've made slight modifications to ensure it works in the real _Visual Studio Code_ (VSCode) software, such as:
 
